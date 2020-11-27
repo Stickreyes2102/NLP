@@ -5,3 +5,5 @@ Este repositorio fue creado con la intención de tener una guía clara y sencill
 
 El procesamiento del lenguaje natural (NLP, por sus siglas en inglés) es una rama de la inteligencia artificial que ayuda a las computadoras a entender, interpretar y manipular el lenguaje humano. NLP toma elementos prestados de muchas disciplinas, incluyendo la ciencia de la computación y la lingüística computacional, en su afán por cerrar la brecha entre la comunicación humana y el entendimiento de las computadoras.
 https://www.sas.com/es_co/insights/analytics/what-is-natural-language-processing-nlp.html
+
+<img src='https://miro.medium.com/max/20000/1*1rkVD6KosdhXeel14DG95Q.jpeg'>
