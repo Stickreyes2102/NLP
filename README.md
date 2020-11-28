@@ -90,5 +90,7 @@ En todos estos casos, la meta general es tomar texto crudo del lenguaje y aplica
 
 [Fuente:](https://www.sas.com/es_co/insights/analytics/what-is-natural-language-processing-nlp.html)
 
+<img src="https://blogwhereillpostkensassignments.files.wordpress.com/2018/08/header.gif?w=1200&h=800" alt="Image">
+
 
 
