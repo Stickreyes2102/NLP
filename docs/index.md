@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## Lenguaje Natural de Procesamiento
 
-You can use the [editor on GitHub](https://github.com/Stickreyes2102/Repositorio-NLP/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/Stickreyes2102/Repositorio-NLP/edit/master/docs/index.md) 
+
+Este repositorio fue creado con la intención de tener una guía clara y sencilla de los procesos mas importantes en NLP (Lenguaje Natural de procesamiento), en éste podemos encontrar una serie de librerías y ejemplos, tales como realizar web scrapping, modelos, nubes de palabras, análisis de sistimiento e integraciones con la api de Twitter.
+
+El procesamiento del lenguaje natural (NLP, por sus siglas en inglés) es una rama de la inteligencia artificial que ayuda a las computadoras a entender, interpretar y manipular el lenguaje humano. NLP toma elementos prestados de muchas disciplinas, incluyendo la ciencia de la computación y la lingüística computacional, en su afán por cerrar la brecha entre la comunicación humana y el entendimiento de las computadoras.
+
+<img src="https://cdn.searchenginejournal.com/wp-content/uploads/2020/08/an-introduction-to-natural-language-processing-with-python-for-seos-5f3519eeb8368-760x400.png" alt="Image">
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -8,12 +15,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```¿Cómo funciona NLP?
+Separación de las piezas elementales del lenguaje
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
