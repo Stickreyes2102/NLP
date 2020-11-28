@@ -44,7 +44,7 @@ Distancia del coseno
 Distancia de Jaccard
 Distancia de Levenshtein
 
-* [Representación vectorial de textos (Parte 3)](https://virtual.konradlorenz.edu.co/mod/assign/view.php?id=414945)Word2Vec
+* [Representación vectorial de textos (Parte 3)](https://virtual.konradlorenz.edu.co/mod/assign/view.php?id=414945) Word2Vec
 CBOW
 SkipGram
 
@@ -58,12 +58,12 @@ LDA: Latent Dirichlet Allocation
 
 * [Visualizaciones para NLP](https://virtual.konradlorenz.edu.co/mod/assign/view.php?id=420721) Nube de palabras en Python
 
-* [Redes Sociales y NLP](https://virtual.konradlorenz.edu.co/mod/assign/view.php?id=421413)NLP y Redes Sociales
+* [Redes Sociales y NLP](https://virtual.konradlorenz.edu.co/mod/assign/view.php?id=421413) NLP y Redes Sociales
 La API de Twitter
 Pre-procesamiento para Twitter
 Visualizaciones usando Plotly
 
-* [Análisis de Sentimiento](https://virtual.konradlorenz.edu.co/mod/assign/view.php?id=422046)Análisis de Sentimiento
+* [Análisis de Sentimiento](https://virtual.konradlorenz.edu.co/mod/assign/view.php?id=422046) Análisis de Sentimiento
 Etiquetados vs No etiquetados
 
 * [Poyecto Final](https://github.com/Stickreyes2102/Repositorio-NLP/blob/master/Proyectos%20Final%20NLP.ipynb) Recopilación de temas vistos en NLP
