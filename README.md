@@ -86,7 +86,7 @@ Traducción basada en máquina. Traducción automática de texto o habla de un i
 
 En todos estos casos, la meta general es tomar texto crudo del lenguaje y aplicar la lingüística y algoritmos para transformar o enriquecer el texto de tal forma que provea un mayor valor. 
 
-Fuente tomada de: https://www.sas.com/es_co/insights/analytics/what-is-natural-language-processing-nlp.html
+Fuente tomada de: (https://www.sas.com/es_co/insights/analytics/what-is-natural-language-processing-nlp.html)
 
 
 
