@@ -66,6 +66,8 @@ Visualizaciones usando Plotly
 * [Análisis de Sentimiento](https://virtual.konradlorenz.edu.co/mod/assign/view.php?id=422046)Análisis de Sentimiento
 Etiquetados vs No etiquetados
 
+* [Poyecto Final](https://github.com/Stickreyes2102/Repositorio-NLP/blob/master/Proyectos%20Final%20NLP.ipynb) Recopilación de temas vistos en NLP
+
 
 # ¿Cómo funciona NLP?
 Separación de las piezas elementales del lenguaje
