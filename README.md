@@ -1,3 +1,5 @@
+<img src="https://i.stack.imgur.com/gmMTp.gif" alt="Image">
+
 # Lenguaje Natural de Procesamiento
 Este repositorio fue creado con la intención de tener una guía clara y sencilla de los procesos mas importantes en NLP (Lenguaje Natural de procesamiento), en éste podemos encontrar una serie de librerías y ejemplos, tales como realizar web scrapping, modelos, nubes de palabras, análisis de sistimiento e integraciones con la api de Twitter.
 
